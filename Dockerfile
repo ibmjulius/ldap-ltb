@@ -1,6 +1,6 @@
 FROM ubuntu:14.04
 
-MAINTAINER Maksym Nebot, <maksym.nebot@accenture.com>
+MAINTAINER Julius Ca-aya
 
 #ENV VARIABLES
 
